@@ -1,4 +1,4 @@
-# Wordpress Rest Api   
+# Python & Wordpress Rest Api   
 
 Python is a very powerful programming language. It is easy to use and has a lot of modules and libraries that allow you to do many different things.  
 

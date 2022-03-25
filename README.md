@@ -4,6 +4,11 @@ Python is a very powerful programming language. It is easy to use and has a lot 
 
  WordPress is a content management system (CMS) that is written in PHP. Python can be used to control WordPress by using the WordPress XML-RPC/ REST API. The XML-RPC/ REST API is a remote procedure call system that allows you to interact with WordPress from a remote location. You can use the XML-RPC/ REST API to create, edit, and delete posts and pages on a WordPress site. 
 
+ ## Installation
+ ```python
+ git clone https://github.com/aouwalitshikkha/wp-rest-api.git
+ ```
+
 
 
 
